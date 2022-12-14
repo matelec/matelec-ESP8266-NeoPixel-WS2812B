@@ -1,7 +1,8 @@
 matelec-ESP8266-NeoPixel-WS2812B
-
 .. literalinclude:: ../code/exemple_neopixel_01.py
-
+  .. literalinclude:: ../code/exemple_neopixel_01.py
+ .. literalinclude:: ../code/exemple_neopixel_01.py
+  .. literalinclude:: ../code/exemple_neopixel_01.py
 **Sources documentaires:**
  * https://docs.micropython.org/en/latest/library/neopixel.html
  * https://docs.micropython.org/en/latest/esp8266/quickref.html#neopixel-driver
