@@ -3,7 +3,7 @@
 # ESP8266 NEOPIXEL - utiliser bibliothèque native
 from machine import Pin
 from neopixel import NeoPixel
-from time
+import time
 
 # ESP8266 Définir la broche_sortie et la configurer en sortie
 pixel_pin = Pin(2, Pin.OUT)

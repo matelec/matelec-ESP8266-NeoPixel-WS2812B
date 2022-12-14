@@ -23,3 +23,10 @@ script python n°2
 Il permet d'allumer la totalité des Neopixels en définissant la couleur.
 
 .. literalinclude:: ./code/exemple_neopixel_02.py
+
+-------------------
+script python n°3
+--------------------
+Il permet d'éteindre les Néopixels.
+
+.. literalinclude:: ./code/exemple_neopixel_03.py
