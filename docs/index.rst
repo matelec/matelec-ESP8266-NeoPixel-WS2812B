@@ -8,12 +8,6 @@ matelec-ESP8266-NeoPixel-WS2812B
 
 La bibliothèque neopixel incluse dans le firmware microPython prend en charge les bandeaux, anneaux et matrices NeoPixel
 
-<<<<<<< HEAD
  Utilisation
  -----------
  .. literalinclude:: ../code/exemple_neopixel_01.py
-=======
-Utilisation
-
-.. literalinclude:: ../code/exemple_neopixel_01.py
->>>>>>> cc375df140ec78f947cf7cff905e9e3546e2d9d0
