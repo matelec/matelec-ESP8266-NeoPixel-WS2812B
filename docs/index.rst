@@ -26,7 +26,7 @@ Il permet d'allumer la totalité des Neopixels en définissant la couleur.
 
 -------------------
 script python n°3
---------------------
+-------------------
 Il permet d'éteindre les Néopixels.
 
 .. literalinclude:: ./code/exemple_neopixel_03.py
