@@ -10,3 +10,4 @@ La bibliothèque neopixel incluse dans le firmware microPython prend en charge l
 Utilisation
  -----------
 .. literalinclude:: ./code/exemple_neopixel_01.py
+.. code-block:: ./code/exemple_neopixel_01.py
