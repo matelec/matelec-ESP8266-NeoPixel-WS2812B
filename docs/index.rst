@@ -15,3 +15,4 @@ script python n°1
 --------------------
 Il permet d'allumer un NeoPixels en définissant la couleur.
 .. literalinclude:: code/exemple_neopixel_01.py
+.. literalinclude:: ./code/exemple_neopixel_01.py
