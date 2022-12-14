@@ -11,8 +11,7 @@ Sources documentaires:
 La bibliothèque neopixel incluse dans le firmware microPython prend en charge les bandeaux, anneaux et matrices NeoPixel
 
 --------------------
-le script python n°1
+script python n°1
 --------------------
 Il permet d'allumer un NeoPixels en définissant la couleur.
-
 .. literalinclude:: code/exemple_neopixel_01.py
