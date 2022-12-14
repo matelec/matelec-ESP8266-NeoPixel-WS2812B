@@ -10,12 +10,5 @@ La bibliothèque neopixel incluse dans le firmware microPython prend en charge l
 Utilisation
  -----------
 .. literalinclude:: ./code/exemple_neopixel_01.py
-  
-.. code-block:: python
-
-  # -- CHARGER BIBLIOTHEQUE ---------------------------
-  # ESP8266 NEOPIXEL - utiliser bibliothèque native
-  from machine import Pin
-  from neopixel import NeoPixel
 
 
