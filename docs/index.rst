@@ -10,9 +10,6 @@ Sources documentaires:
 
 La bibliothèque neopixel incluse dans le firmware microPython prend en charge les bandeaux, anneaux et matrices NeoPixel
 
-===========
-Utilisation
-===========
 --------------------
 le script python n°1
 --------------------
