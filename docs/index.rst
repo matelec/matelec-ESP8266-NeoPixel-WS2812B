@@ -9,4 +9,4 @@
 
  Utilisation
  -----------
- .. literalinclude:: ./code/exemple_neopixel_01.py
+.. literalinclude:: ./code/exemple_neopixel_01.py
