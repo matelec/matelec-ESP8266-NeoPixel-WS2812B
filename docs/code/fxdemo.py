@@ -164,8 +164,6 @@ def theater_chase( np, color, iteration=10, pause=0.050 ):
 		for q in range( 4 ):
 			for i in range( 0, np.n, 4 ): # every 3 pixels ON
 				set_color( np, q+i, color )
-				print(q+i)
-				sleep(0.5)
 			np.write()
 			sleep( pause )
 			for i in range( 0, np.n, 3 ):
@@ -180,26 +178,33 @@ def wipe( np, color, pause=0.150 ):
 # --- Test the functions ---
 
 # theater_chase sample
+print("effet 1")
 theater_chase( np, (127,0,0) ) # red
 theater_chase( np, (127,127,127) ) # white
 theater_chase( np, (0,0,127) ) # blue
 clear( np )
 sleep( 1 )
-print ("stop1")
+print ("stop effet 1")
 sleep( 1 )
 
 # Wipe in color
+print("effet 2")
 np.fill( (190, 0, 0) ) # fill in red
 np.write()
 wipe( np, (0,180,0), pause=0.150 ) # wipe in green
 wipe( np, (0,0,255), pause=0.150 ) # wipe in blue
 wipe( np, (0,0,0),   pause=0.150 ) # wipe in black
 sleep( 1 )
+print ("stop effet 2")
+sleep( 1 )
 
 # Moving_rainbow
+print("effet 3")
 for i in range( 4 ):
 	moving_rainbow( np )
 clear( np )
+sleep( 1 )
+print ("stop effet 3")
 sleep( 1 )
 
 # Fade In And Out
