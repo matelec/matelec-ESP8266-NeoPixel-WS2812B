@@ -30,3 +30,10 @@ script python n°3
 Il permet d'éteindre les Néopixels.
 
 .. literalinclude:: ./code/exemple_neopixel_03.py
+
+-------------------
+Exemples d'effets lumineux
+-------------------
+Dans le script il y a plusieurs fonctions d'effets lumineux utilisables dans des IoT de gestion de Neopixels
+
+.. literalinclude:: ./code/fxdemo.py
