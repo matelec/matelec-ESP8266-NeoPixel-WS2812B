@@ -208,6 +208,7 @@ print ("stop effet 3")
 sleep( 1 )
 
 # Fade In And Out
+print("effet 4")
 fade_inout( np, (255,   0,   0) ) # Red
 fade_inout( np, (0  , 255,   0) ) # Green
 fade_inout( np, (0  ,   0, 255) ) # Blue
@@ -215,6 +216,7 @@ clear( np )
 sleep( 1 )
 
 # moving_wheel
+print("effet 5")
 moving_wheel( np )
 clear( np )
 sleep( 1 )
