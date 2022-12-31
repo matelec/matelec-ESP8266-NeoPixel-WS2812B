@@ -38,5 +38,9 @@ Dans le script il y a plusieurs fonctions d'effets lumineux utilisables dans des
 
 .. literalinclude:: ./code/fxdemo.py
 
-
+===================
+Applications
+===================
+Connexion
+---------
 .. image:: ./img/Connexion.png
