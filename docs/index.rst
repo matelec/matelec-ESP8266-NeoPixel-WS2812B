@@ -7,6 +7,8 @@ Sources documentaires:
  * https://docs.micropython.org/en/latest/esp8266/quickref.html#neopixel-driver
  * https://github.com/mchobby/esp8266-upy/tree/master/neopixel
 
+Matériels:
+  * https://fr.aliexpress.com/item/2036819167.html?spm=a2g0o.store_pc_groupList.8148356.5.590457b153hkTO&pdp_npi=2%40dis%21EUR%21€%205%2C43%21€%200%2C17%21%21%21%21%21%4021038ed816723902213446457e856a%2112000026548380063%21sh
 
 La bibliothèque neopixel incluse dans le firmware microPython prend en charge les bandeaux, anneaux et matrices NeoPixel
 
