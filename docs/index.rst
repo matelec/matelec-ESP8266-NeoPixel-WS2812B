@@ -57,6 +57,7 @@ Cablâge
 Consommation électrique
 ------------------------
  les bandeaux 30 leds/m ont une consommation de 9W/m sous 5VDC.
- 
+
  les bandeaux 60 leds/m ont une consommation de 18W/m sous 5VDC.
-    1px= 0,3W sois 60mA
+
+ 1px= 0,3W sois 60mA
